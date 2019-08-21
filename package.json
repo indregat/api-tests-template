@@ -1,0 +1,19 @@
+{
+  "name": "apiintegrationtestjs",
+  "version": "0.0.1",
+  "description": "REST API Integration Tests using Mocha",
+  "author": "Liudas Jankauskas",
+  "repository": {
+    "type": "github",
+    "url": ""
+  },
+  "dependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^4.0.0",
+    "chai-moment": "^0.1.0",
+    "mocha": "^2.5.3",
+    "request": "^2.72.0",
+    "util": "^0.10.3"
+  },
+  "devDependencies": {}
+}
