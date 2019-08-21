@@ -15,3 +15,5 @@ Running from command line
 
 - Run ```mocha tests\test``` from command line to run all test suites.
 - Run ```mocha tests\<testname>.js``` from command line to run particular test suite.
+
+![](https://raw.githubusercontent.com/LiudasJan/api-tests-template/master/images/mocha-test.gif "")
