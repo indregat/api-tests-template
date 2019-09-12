@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "description": "REST API Integration Tests using Mocha",
   "author": "Liudas Jankauskas",
+  "scripts": {
+    "test": "mocha tests/test",
+    "postinstall": "node scripts/init-mocha"
+  },
   "repository": {
     "type": "github",
     "url": ""

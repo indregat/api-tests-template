@@ -12,8 +12,10 @@ Requirements
 
 Running from command line
 --------------------------
+To run the tests using Mocha, do:
 
-- Run ```mocha tests\test``` from command line to run all test suites.
-- Run ```mocha tests\<testname>.js``` from command line to run particular test suite.
+```sh
+$ npm run test
+```
 
 ![](https://raw.githubusercontent.com/LiudasJan/api-tests-template/master/images/mocha-test.gif "")
