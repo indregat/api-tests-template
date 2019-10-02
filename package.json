@@ -4,8 +4,7 @@
   "description": "REST API Integration Tests using Mocha",
   "author": "Liudas Jankauskas",
   "scripts": {
-    "test": "mocha tests/test",
-    "postinstall": "node scripts/init-mocha"
+    "test": "mocha tests/test"
   },
   "repository": {
     "type": "github",
