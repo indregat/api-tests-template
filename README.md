@@ -16,6 +16,7 @@ To run the tests using Mocha, do:
 
 ```sh
 $ npm run test
+
 ```
 
 ![](https://raw.githubusercontent.com/LiudasJan/api-tests-template/master/images/mocha-test.gif "")
