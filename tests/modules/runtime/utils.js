@@ -24,6 +24,14 @@
   }
 
   /**
+   * Returns new random email
+   */
+  exports.randomCountryCode = function () {
+    const code = ["LV", "EE", "LT", "DE", "FI", "EE", "DK", "CA"];
+    const randomCountryCode = code[Math.floor(Math.random() *code.length)];
+    return randomCountryCode;
+  }
+  /**
    * Get date stamp.
    * @return {date} current date stamp.
    */
